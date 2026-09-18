@@ -1,0 +1,8 @@
+core.editor="C:\Users\20323\AppData\Local\Programs\Microsoft VS Code\bin\code" --wait
+credential.https://gitee.com.provider=generic
+credential.helper=
+safe.directory=*
+user.name=gielensras471-creater
+user.email=GielensRas471@gmail.com
+http.proxy=http://127.0.0.1:20259
+https.proxy=http://127.0.0.1:20259
